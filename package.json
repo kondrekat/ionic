@@ -1,5 +1,5 @@
 {
-  "name": "@ionic/source",
+  "name": "ionic-angular",
   "version": "0.0.1",
   "description": "Ionic mono-repo root package.json, used mainly to execute build scripts. This package is not published to npm.",
   "private": true,
